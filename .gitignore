@@ -1,0 +1,13 @@
+# 環境変数（Webhook URLなど）
+.env
+
+# スキャン結果CSV・ログ
+*.csv
+*.log
+
+# デバッグ用画像
+*.png
+
+# Python
+__pycache__/
+*.pyc
